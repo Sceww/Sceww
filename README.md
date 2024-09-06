@@ -1,4 +1,6 @@
 ## Hi there 👋
+This is my website I made it Only I can have it No one else is allowed to have it OK Thanks for your understanding Be on your way now.
+
 
 <!--
 **Sceww/Sceww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
