@@ -1,0 +1,15 @@
+@charset "utf-8";
+@font-face {
+    font-family: ;
+    src: url();
+}
+
+body {
+    background-color: #d8e4ff;
+}
+h1, p {
+    color:#2e3f88;
+    background-color: #ffffff;
+    text-align: center;
+}
+/* this is my comment */
