@@ -1,15 +1,23 @@
 @charset "utf-8";
 @font-face {
-    font-family: ;
-    src: url();
+    font-family: Jamjuree-reg;
+    src: url(fonts/Jamoree/BaiJamjuree-Regular.ttf);
 }
-
 body {
-    background-color: #d8e4ff;
+    background-color: #ffcb3d;
+    font-family: Jamjuree-reg;
 }
 h1, p {
+    margin:  0vw 10vw 0vw 10vw;
     color:#2e3f88;
     background-color: #ffffff;
     text-align: center;
+    list-style: lower-alpha;
+}
+a:visited {
+    color: white;
+}
+a:hover {
+    color: rgb(255, 64, 64);
 }
 /* this is my comment */
