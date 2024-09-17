@@ -1,0 +1,12 @@
+p, h1 {
+    margin:  0vw 10vw 0vw 10vw;
+    text-align: center;
+    list-style: lower-alpha;
+}
+#header {
+    background-color: antiquewhite;
+    text-align: center;
+}
+div#outer {
+    display: grid;
+}

@@ -3,19 +3,19 @@
     font-family: Jamjuree-reg;
     src: url(fonts/Jamoree/BaiJamjuree-Regular.ttf);
 }
+header {
+    background-color: rgb(255, 255, 255);
+}
 body {
     background-color: #ffcb3d;
     font-family: Jamjuree-reg;
 }
 h1, p {
-    margin:  0vw 10vw 0vw 10vw;
     color:#2e3f88;
     background-color: #ffffff;
-    text-align: center;
-    list-style: lower-alpha;
 }
 a:visited {
-    color: white;
+    color: rgb(0, 0, 0);
 }
 a:hover {
     color: rgb(255, 64, 64);
